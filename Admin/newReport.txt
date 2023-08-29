@@ -1,0 +1,17 @@
+THIS IS A REPORT CREATED BY admin on: 2023/08/28 02:53:52pm
+------------------------------------------------------------------------------------------
+
+Find Below the description of the Products and their respecitive details: 
+------------------------------------------------------------------------------------------
+
+SKU 	productName 	productPrice 	productQuantity 	Description 	Category 	
+TYP54Zp	Active Hoodie	170	19	This staple-style hoodie features a hood, long sleeves, and a relaxed fit.	Mens Essentials	
+SEp475	Runner Shorts	150	15	Upgrade your wardrobe with these essential runner shorts, designed for ultimate comfort.	Ladies Essentials	
+LuB574	Lace Up Boot	360	24	This boot features a closed heel and toe, ankle height, and is laced up the front	Mens Shoes	
+JSu912	Jumpsuit	180	50	This sleeveless jumpsuit has a crew neckline and wide leg and pinstripe design	RT Girls	
+3PBdUs	Baby Bodysuits	120	26	Featuringlong sleeves as well as loads of wiggle room means your little one can dream and play freely.	Baby wear	
+LSH451	Baseball Shirt	150	28	Show your love for the game with this cool and fashionable baseball shirt!	Mens Wear	
+GwO825	Womens Gown	230	23	This gown features an all-over print, long sleeves, pockets, mid-length, and an open front with an optional tie.	Sleep wear	
+HWk57h	Slim Pants	270	33	These pants feature an elasticated waistband with a draw cord and zip fly perfect for any day!	Formal	
+
+Admin: Signed By ##Kyle.Faure#ADMIN##

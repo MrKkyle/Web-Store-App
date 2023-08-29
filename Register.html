@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name = "viewport" content = "width = device-width, initial-scale = 1" charset="utf-8">
+    <link rel = "stylesheet" type = "text/css" href = "Main.css">
+</head>
+<body>
+    <div class = 'background-image'>
+
+        <div class = "navigation-bar" id = "navigation" style = "background-color: rgb(255 255 255 / 70%);">
+			<div class = "navi"><a href = "#home" onclick = "window.location.href = 'Landing-page.html';">Home</a></div>
+            <div class = "navi"><a href = "#FeaturedProducts" onclick = "window.location.href = 'Products-page.html';">Featured</a></div>
+			<div class = "navi"><a href = "#login" onclick = "window.location.href = 'Login.html';">Login</a></div>
+			<div class = "navi"><a href = "#register" onclick = "window.location.href = 'Register.html';">Register</a></div>
+		</div>
+
+        <div class = 'modal1'>
+            <form class = 'modal-content' style = "height: 500px; padding: 10px;" action = 'Authenticators/Register-authenticator.php' method = 'post'>
+            <img src = 'Media\Simple.gif' alt = 'Avatar' class = 'avatar'>
+            <br>
+            <br>
+            <div class = 'text-form'><b>Username</b></div>
+            <input type = 'text' placeholder = 'Enter Username' name = 'userName' autocomplete = 'off' required>
+            <div class = 'text-form'><b>Password</b></div>
+            <input type = 'password' placeholder = 'Enter Password' name = 'passCode' required>
+            <br>
+            <button class = 'button' type = 'submit' name ='Go' value = 'submit'>Register</button>
+            <br>
+        </div>    
+    </div>    
+</body>
+</html>
